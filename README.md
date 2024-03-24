@@ -29,7 +29,7 @@ Run:
 ` python webapp.py --port 5000`
 
 then visit http://localhost:5000/ in your browser:
-Now, Upload demoimg.jpg to see the processed image
+Now, Upload demoimg.jpeg to see the processed image
 
 
 
