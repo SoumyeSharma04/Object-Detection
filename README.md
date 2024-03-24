@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 
 ## Web app
-Simple app consisting of a form where you can upload an image, and see the inference result of the model in the browser. Run:
+Run:
 
 ` python webapp.py --port 5000`
 
