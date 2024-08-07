@@ -3,10 +3,7 @@
 
 ### Steps to run Code
 - Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/yolov5-flask-object-detection.git
-```
-- Goto the cloned folder.
+- Go to the cloned folder.
 ```
 cd yolov5-flask-object-detection
 
